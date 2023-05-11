@@ -13,13 +13,10 @@
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
-    - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -35,23 +32,11 @@
 
 ## About this project
 
-This is a budget storing app built with `Rails` framework to let users sign up, login, and add different categories to keep a track of their expenses and transaction. They can add transactions for different categories and have a look at their total spending. This app is useful when someone must keep track of their budget.
+This is a demo application for practicing using `React` inside a `Rails API` project.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 - `Ruby`, `Ruby on Rails`, `JavaScript`, `HTML`, `CSS`, `React`
-
-<!-- Features -->
-
-### Key Features <a name="key-features"></a>
-
-> Key features of the application.
-
-- A full stack sample single app
-- Front end built with `React` and backend built with `Rails`
-- The app connects with API with itself
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
@@ -100,13 +85,8 @@ $ rails db:create
 $ rails db:migrate
 
 $ rails server
+
 ```
-### Usage <a href="usage" name="usage"></a>
-
-This website is applicable for both mobile and desktop version.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
